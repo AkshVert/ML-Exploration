@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jan 21 15:27:30 2023
+
+@author: Mayank
+"""
+
+Homework -
+1. Fill comments for each line. 
+2. Run every line and see output.
+3. Data set move desktop and then run the code.
+4. Remove null rows with null values without putting mean and then see the y_pred
